@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: dublin_rest_demo
+  data:
+    mongodb:
+      database: rest-demo-users
